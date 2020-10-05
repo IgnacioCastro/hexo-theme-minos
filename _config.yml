@@ -25,11 +25,11 @@ article:
 
 # Navigation bar menu links.
 menu:
-  Archives: /archives
-  Lifestyle: /categories/LifeStyle
-  Music: /categories/Music
-  Technology: /categories/Technology
-  About: /about
+  #Archives: /archives
+  #Lifestyle: /categories/LifeStyle
+  #Music: /categories/Music
+  #Technology: /categories/Technology
+  About: https://ignacio.wtf
 
 # Search plugin settings.
 search:
