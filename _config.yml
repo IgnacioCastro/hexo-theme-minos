@@ -1,5 +1,5 @@
 # Website's icon url.
-favicon: /favicon.png
+favicon: /blog/images/favicon.ico
 
 # Open Graph metadata (https://hexo.io/docs/helpers.html#open-graph)
 open_graph:
@@ -45,12 +45,14 @@ share:
 
 # Comment plugin settings.
 comment:
-  type: disqus
+  type: valine
+  app_id: 0yUM72Fgu05x3gqAV3Lnu9Kc-MdYXbMMI
+  app_key: oHSGv2rFXWmPEMvfI9p6sMIP
   shortname:
 
 # Other plugins and their settings.
 plugins:
-  mathjax: true
+  mathjax: false
   katex: false
   gallery: true
   clipboard: true
@@ -64,8 +66,8 @@ plugins:
 navbar_links:
   GitHub:
     icon: fab fa-github
-    url: https://github.com/ppoffice/hexo-theme-minos
+    url: https://github.com/ignaciocastro/
 
 # Links at the bottom of the page.
-footer_links:
-  GitHub: https://github.com/ppoffice/hexo-theme-minos
+#footer_links:
+  #GitHub: https://github.com/ppoffice/hexo-theme-minos
